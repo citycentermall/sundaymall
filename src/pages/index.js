@@ -25,7 +25,7 @@ export default function ComingSoon() {
       {/* Content */}
       <Container sx={{ position: "relative", textAlign: "center", px: 3, zIndex: 10 }}>
         <Typography variant="h2" fontWeight="bold" mb={2}>
-          Sunday Mall
+          Sunday Malls
         </Typography>
         <Typography variant="h6" mb={4}>
           We are launching soon! Stay tuned for something amazing.
